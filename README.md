@@ -1,5 +1,5 @@
 # MIPr - MapReduce Image Processing framework for Hadoop
-
+## I changed this file... by Heo
 MIPr provides the ability to process images in Hadoop.
 
 MIPr includes:
